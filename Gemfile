@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jquery-turbolinks'
 gem 'smart_editor', github: "luciuschoi/smart_editor_rails", branch: "rails4"
 gem 'carrierwave'
 

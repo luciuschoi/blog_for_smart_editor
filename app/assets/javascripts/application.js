@@ -11,8 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery.turbolinks
-//= require smart_editor
-//= require jquery_ujs
-//= require_tree .
 //= require turbolinks
+//= require jquery_ujs
+//= require smart_editor
+//= require_tree .
